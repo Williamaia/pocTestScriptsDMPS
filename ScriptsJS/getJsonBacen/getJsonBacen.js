@@ -1,8 +1,8 @@
 function validaJson(jsonBacen){
     if(jsonBacen){
-        console.log("toperson")
+        console.log("top")
     } else {
-        console.log("nada toperson")
+        console.log("nada top")
     }
 }
 
